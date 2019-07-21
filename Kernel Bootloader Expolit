@@ -1,0 +1,59 @@
+ARM_ROOTACCESSCODE1X--------------------------------------------------------------------------Success
+ARM_ROOTACCESSCODE2X--------------------------------------------------------------------------Success
+ARM_ROOTACCESSCODE3X--------------------------------------------------------------------------Success
+ARM_ROOTACCESSCODE4X--------------------------------------------------------------------------Success
+ARM_ROOTACCESSCODE5X--------------------------------------------------------------------------Success
+APT_ROOTACCESSCODE6X--------------------------------------------------------------------------Success
+APT_ROOTACCESSCODE7X--------------------------------------------------------------------------Success
+APT_ROOTACCESSCODE8X--------------------------------------------------------------------------Success (Modifed By A3X)
+APT_ROOTACCESSCODE9X--------------------------------------------------------------------------Success
+APT_ROOTACCESSCODE10X-------------------------------------------------------------------------Success
+APT_CydiaListAptCode11X-----------------------------------------------------------------------Success
+APT_MachSwapCydiaCode12X----------------------------------------------------------------------Success
+APT_MachSwapV2CydiaCode13X--------------------------------------------------------------------Success
+APT_MachSwapV3CydiaCode14X--------------------------------------------------------------------Success
+APT_CydiaAPTListCode15X-----------------------------------------------------------------------Success
+APT_CydiaAPTListCode16X-----------------------------------------------------------------------Success
+APT_MachSwapV2CydiaCode17X--------------------------------------------------------------------Success
+APT_MachSwapV3CydiaCode18X--------------------------------------------------------------------Success
+APT_RunMachSwapV4CydiaCode19X-----------------------------------------------------------------Success
+APT_RunMachSwapV5CydiaCode20X-----------------------------------------------------------------Success
+APT_RunMachSwapV6CydiaCode21X-----------------------------------------------------------------Success
+APT_RunMachSwapV7CydiaCode22X-----------------------------------------------------------------Success
+APX_RunMachSwapV8CydiaCode22X-----------------------------------------------------------------Success
+APX_RunMachSwapV9XCydiaCode22X----------------------------------------------------------------Success
+APX_RunMachSwapv10XCydiaCode------------------------------------------------------------------Success
+APX_RUnMachSwapv11XCydiaCode24X---------------------------------------------------------------Success
+APC_RunMachCorrupted--------------------------------------------------------------------------Success
+APX_RunMachSwapCorrrupted---------------------------------------------------------------------Success
+ARM_RunMachSwapCorrupted----------------------------------------------------------------------Success
+APT_RunMachSwapv12XCydiaCode25X---------------------------------------------------------------Success (Protected By A3X)
+APT_RunMachSwapv13XCydiaCode26X---------------------------------------------------------------Success
+APT_RunMachSwapV14XCydiaCode27X---------------------------------------------------------------Success
+APT_RunMachSwapRecoveryC15CydiaCode28X--------------------------------------------------------Success
+APT_RunMachSwapV16XCydiaCode29X---------------------------------------------------------------Success
+APT_RunMachSwapV17XCydiaCode30X---------------------------------------------------------------Respringing(Success)
+APT_RunMachSwapV18XCydiaCode31X---------------------------------------------------------------Respringing(Success)
+APT_RunMachSwapV19XCydiaCode32X---------------------------------------------------------------Respringing(Success)
+APT_RunMachSwapV20XReSpringSYS33X-------------------------------------------------------------Respringing(Success)
+APT_RunMachSwapV21XCydiaCode34X---------------------------------------------------------------Success
+APT_RunMachSwapV22XCydiaCode35X---------------------------------------------------------------Success
+APT_RunReSpringJailBreakCode36X---------------------------------------------------------------Success
+APT_RunReSpringJailBreakCydiaCodeAPTListMachSwap37X-------------------------------------------Success
+APT_RunReSpringJailbreakCydiaCodeAPTListMachSwapV38X------------------------------------------Success
+APT_RunReSpringJailbreakCydiaCodeAPTListMachSwapV39-------------------------------------------Success
+APT_RunReSpringJailbreakCydiaCodeAPTListMachSwapV40-------------------------------------------Success
+APT_RunReSpringJailbreakCydiaCodeAPTListMachSwapV41-------------------------------------------Success
+APT_RunReSpringJailbreakCydiaCodeAPTListMachSwapV42-------------------------------------------Success
+ARM_RunReSpringJailbreakCydiaCodeAPTListMachSwapV43-------------------------------------------Success
+APT_CoreTrustBypassMachSwapV4-----------------------------------------------------------------Success
+ARM_RunExploitMachSwapV20CydiaCodeAPTListMachSwapV44B1----------------------------------------Jailbreaking A7-A12 (100%)
+ARM_RunJailbreakV21CydiaCodeAPTListMachSwapV45B2----------------------------------------------Exploit Broken(Cannot Sart Jailbreak)
+APT_RunReSpringJailbreakRecoveryAPTListMachSwapV46B3------------------------------------------Recovery Mode(Repairing Exlpoit)
+ARM_RunJailBreakV22CydiaAPTListMachSwapV46B4--------------------------------------------------Exploit Repaired (Starting Jailbreak EXE Code)
+POC_RunJailBreakV23CydiaAPTListMachSwapV47B5JBCode--------------------------------------------Running Jailbreak For A7-A11
+APT_CoreTrustBypassMachSwapV48B6--------------------------------------------------------------Running CoreTrust ByPass
+POC_RunCoreTrustBypassMachSwapV9B7------------------------------------------------------------Insert Injection Code(Running Code)
+POC_RunFullExploitIncludeMachSwapV50B8CoreTrustInjectionCodeReSpringJailbreakAPTList----------Jailbreaking Code Running At 100%
+POC_RunFullReleaseJailbreakMachSwapV51B9CoreTrustInjectionCodeReSpringJailbreakAPTList--------Released JB Code
+POC_RunMachSwapVirusCheckerV54B12-------------------------------------------------------------Checking (100%)
